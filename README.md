@@ -4,7 +4,7 @@
 
 **I write code that actually ships.**
 
-CS grad · Full-Stack & ML Engineer · Building things because I can't stop.
+CS grad · Full-Stack & ML Engineer
 
 [![Portfolio](https://img.shields.io/badge/hamzasaeed.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hamzasaeed.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzasaeed31)
@@ -34,18 +34,6 @@ DevOps          Docker · AWS · Vercel · GitHub Actions
 
 ---
 
-### Featured Projects
-
-| | Project | What it does | Stack |
-|---|---------|-------------|-------|
-| 🤖 | [**Interview-Den**](https://github.com/HamzaSaeed31/Interview-Den) | AI hiring platform — resume screening, adaptive quizzes, avatar-led video interviews. FYP at FAST NUCES. | Next.js · Supabase · Groq · LangChain · Docker |
-| 📡 | [**News Data Pipeline**](https://github.com/HamzaSaeed31/News-Data-Pipeline) | Airflow DAGs for news ingestion, preprocessing, and model training. MLflow for experiment tracking. Shaved 40% off deployment time. | Python · Apache Airflow · MLflow · FastAPI |
-| 🏘️ | [**Housing Society System**](https://github.com/HamzaSaeed31/Housing-Society-Management) | MERN app with portals for residents, tenants, and admins. Property search, payments, role-based dashboards, WebSocket notifications. | React · Node.js · MongoDB · Express |
-| 💳 | [**Credit Risk Predictor**](https://github.com/HamzaSaeed31/Credit-Risk-Predictor) | Enter financials, get a risk score. Streamlit app backed by scikit-learn. Compared several models, kept the one that held up on test data. | Python · scikit-learn · Streamlit |
-| 👾 | [**PAC-MAN in Assembly**](https://github.com/HamzaSaeed31/PAC-MAN) | Pac-Man in x86 MASM Assembly. Ghost AI, power-ups, video memory rendering, BIOS keyboard interrupts. No engine, no libraries, no shortcuts. | x86 Assembly · MASM · DOSBox |
-
----
-
 ### Experience
 
 | When | Where | Role |
@@ -57,6 +45,17 @@ DevOps          Docker · AWS · Vercel · GitHub Actions
 
 ---
 
+### Featured Projects
+
+| | Project | What it does | Stack |
+|---|---------|-------------|-------|
+| 🤖 | [**Interview-Den**](https://github.com/HamzaSaeed31/Interview-Den) | AI hiring platform — resume screening, adaptive quizzes, avatar-led video interviews. FYP at FAST NUCES. | Next.js · Supabase · Groq · LangChain · Docker |
+| 📡 | [**News Data Pipeline**](https://github.com/HamzaSaeed31/News-Data-Pipeline) | Airflow DAGs for news ingestion, preprocessing, and model training. MLflow for experiment tracking. Shaved 40% off deployment time. | Python · Apache Airflow · MLflow · FastAPI |
+| 🏘️ | [**Housing Society System**](https://github.com/HamzaSaeed31/Housing-Society-Management) | MERN app with portals for residents, tenants, and admins. Property search, payments, role-based dashboards, WebSocket notifications. | React · Node.js · MongoDB · Express |
+| 💳 | [**Credit Risk Predictor**](https://github.com/HamzaSaeed31/Credit-Risk-Predictor) | Enter financials, get a risk score. Streamlit app backed by scikit-learn. Compared several models, kept the one that held up on test data. | Python · scikit-learn · Streamlit |
+| 👾 | [**PAC-MAN in Assembly**](https://github.com/HamzaSaeed31/PAC-MAN) | Pac-Man in x86 MASM Assembly. Ghost AI, power-ups, video memory rendering, BIOS keyboard interrupts. No engine, no libraries, no shortcuts. | x86 Assembly · MASM · DOSBox |
+
+---
 
 <div align="center">
 
